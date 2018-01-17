@@ -28,6 +28,9 @@
 :warning: On windows : winpty docker run -it --name=java-container gl-tests-ci
 
 
+#docker build -t testhop .
+#winpty docker run -it --name=marienplop3 testhop
+#mvn install
 
 
 
